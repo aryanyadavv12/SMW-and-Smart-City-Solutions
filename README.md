@@ -105,13 +105,7 @@ cd backend
 npm install
 ```
 
-3. Create a `.env` file in the backend directory:
-```env
-PORT=5000
-NODE_ENV=development
-JWT_SECRET=your_super_secret_jwt_key_change_this_in_production
-JWT_EXPIRE=7d
-FRONTEND_URL=http://localhost:3000
+3. Create a `.env` file inside the backend folder using `env.example` as reference.
 ```
 
 4. Start the backend server:
@@ -279,3 +273,10 @@ For support, email support@swm-solutions.com or create an issue in the repositor
 - Express.js community for excellent documentation
 
 # SWM-and-Smart-City-Solution
+---
+
+## 👨‍💻 Author
+
+Aryan Yadav  
+Full Stack Developer (MERN)  
+🔗 GitHub: https://github.com/aryanyadavv12
